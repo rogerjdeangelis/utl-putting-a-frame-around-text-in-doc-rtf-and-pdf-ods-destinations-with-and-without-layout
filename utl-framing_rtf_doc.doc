@@ -1,0 +1,35 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\deflang1033\deflangfe1033
+{\fonttbl
+{\f1\fswiss\fprq2\fcharset0 Arial;}
+{\f2\fmodern\fprq1\fcharset0 Courier New;}
+}{\colortbl;
+\red0\green0\blue0;
+\red0\green0\blue255;
+\red0\green255\blue255;
+\red0\green255\blue0;
+\red255\green0\blue255;
+\red255\green0\blue0;
+\red255\green255\blue0;
+\red255\green255\blue255;
+\red0\green0\blue128;
+\red0\green128\blue128;
+\red0\green128\blue0;
+\red128\green0\blue128;
+\red128\green0\blue0;
+\red128\green128\blue0;
+\red128\green128\blue128;
+\red192\green192\blue192;
+}{\stylesheet{\widctlpar\adjustright\fs20\cgrid\snext0 Normal;}{\*\cs10\additive Default Paragraph Font;}
+}{\info{\title V9.4 SAS System Output}{\author SAS Version 9.4}{\operator SAS Version 9.4}{\version1}{\creatim\yr2019\mo4\dy23\hr19\min44\sec41}}
+\widowctrl\ftnbj\aenddoc\formshade\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\fet0\paperw15840\paperh12240\margl360\margr360\margt360\margb360
+\sectd\linex0\endnhere\pgwsxn15840\pghsxn12240\lndscpsxn\headery720\footery360\marglsxn360\margrsxn360\margtsxn360\margbsxn360
+{\header\pard\plain\qc{
+}}
+{\footer\pard\plain\qc{
+}}{\*\bkmkstart IDX}{\*\bkmkend IDX}\trowd\trkeep\trql
+\clbrdrt\brdrs\brdrw4\brdrcf1\clbrdrb\brdrs\brdrw4\brdrcf1\clbrdrl\brdrs\brdrw4\brdrcf1\clbrdrr\brdrs\brdrw4\brdrcf1\cltxlrtb\clvertalt\clcbpat8\clpadt40\clpadft3\clpadr40\clpadfr3\cellx3594
+\pard\plain\intbl\sb40\sa40\ql\f1\fs26\cf1{\animtext0\ul0\strike0\b0\i0\f1\fs26\cf1 NOTE: Overall totals{\line}
+Leading causes of injury{\line}
+See Appendices\cell}
+{\row}
+\pard}
